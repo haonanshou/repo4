@@ -191,6 +191,7 @@
                         <showWarnings>true</showWarnings>
                     </configuration>
                 </plugin>
+
             </plugins>
         </pluginManagement>
     </build>
